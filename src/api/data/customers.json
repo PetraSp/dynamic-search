@@ -1,0 +1,44 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Javier Gomez",
+      "surname": "740",
+      "email": "hello@gmail.com",
+      "phoneNumber": "607 507 999",
+      "totalOrders": "3"
+    },
+    {
+      "id": "2",
+      "name": "Javier Gomez",
+      "surname": "740",
+      "email": "hello@gmail.com",
+      "phoneNumber": "607 507 999",
+      "totalOrders": "3"
+    },
+    {
+      "id": "3",
+      "name": "Javier Gomez",
+      "surname": "740",
+      "email": "hello@gmail.com",
+      "phoneNumber": "607 507 999",
+      "totalOrders": "3"
+    },
+    {
+      "id": "4",
+      "name": "Javier Gomez",
+      "surname": "740",
+      "email": "hello@gmail.com",
+      "phoneNumber": "607 507 999",
+      "totalOrders": "3"
+    },
+    {
+      "id": "5",
+      "name": "Javier Gomez",
+      "surname": "740",
+      "email": "hello@gmail.com",
+      "phoneNumber": "607 507 999",
+      "totalOrders": "3"
+    }
+  ]
+}
